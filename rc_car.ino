@@ -17,8 +17,8 @@ bool right = 0;
 int Speed;
 char auth[] = "4bv_8AGLE5qem7LEhVre6-_R2rIacuvg"; //Enter your Blynk application auth token (My id for rc car template)
 //char auth[] = "icilissTr-UVC-n9h7O9Crp2az2lDmlb";
-char ssid[] = "faeq"; //Enter your WIFI name
-char pass[] = "asdzxc12345"; //Enter your WIFI passowrd
+char ssid[] = ""; //Enter your WIFI name
+char pass[] = ""; //Enter your WIFI passowrd
 float vref = 3.3;
 float resolution = (vref)/1024;
  
